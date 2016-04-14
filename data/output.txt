@@ -1,0 +1,16 @@
+100.txt
+Tempo levado para soma: 0.000052
+Tempo levado para subtracao: 0.000042
+Tempo levado para produto escalar: 0.000002
+200.txt
+Tempo levado para soma: 0.000098
+Tempo levado para subtracao: 0.000082
+Tempo levado para produto escalar: 0.000002
+300.txt
+Tempo levado para soma: 0.000201
+Tempo levado para subtracao: 0.000169
+Tempo levado para produto escalar: 0.000004
+400.txt
+Tempo levado para soma: 0.000191
+Tempo levado para subtracao: 0.000164
+Tempo levado para produto escalar: 0.000005
